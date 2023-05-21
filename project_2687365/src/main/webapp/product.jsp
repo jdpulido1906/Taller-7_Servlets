@@ -17,16 +17,16 @@
     <!-- minium responsive viewport-->
     <meta name="viewport" content="width=devide-width, initial-scale=1">
     <!-- TITLE-->
-    <title>Formulario Producto</title>
+    <title>Registro Producto</title>
     <!-- FAVICON-->
     <link rel="icon" type="image/x-icon" href="./img/imagen.png">
     <!-- CSS-->
     <!-- bootstrap css / icons--><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-                                       rel="stylesheet"
-                                       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-                                       crossorigin="anonymous">
-    <link rel="stylesheet"
-          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+    crossorigin="anonymous">
+    <!-- CSS-->
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <!--custom css-->
     <link rel="stylesheet" href="./css/signin.css">
     <link rel="stylesheet" href="./css/styles.css">
@@ -62,7 +62,7 @@
         </div>
     </form>
 </main>
-<! - - Bootstrap script-->
+<!-- Bootstrap script-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJL+0I4"
         crossorigin="anonymous"></script>
