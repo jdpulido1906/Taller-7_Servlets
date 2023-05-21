@@ -17,7 +17,7 @@
   <!-- minium responsive viewport-->
   <meta name="viewport" content="width=devide-width, initial-scale=1">
   <!-- TITLE-->
-  <title>Formulario Registro Login</title>
+  <title>Registro Usuario</title>
   <!-- FAVICON-->
   <link rel="icon" type="image/x-icon" href="./img/imagen.png">
   <!-- bootstrap css / icons-->
